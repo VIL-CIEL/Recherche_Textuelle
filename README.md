@@ -1,5 +1,6 @@
 # Recherche_Textuelle
-Projet académique de lycée en première NSI
+Projet académique de lycée en première NSI<br>
+Un pdf 'Planning' est disponible dans le release, il permet de totalment expliquer l'intéret et comment fonctionne le logiciel
 
 ## - Comment ouvrir les fichiers sources ?
 - Télécharger la dernière release<br>
